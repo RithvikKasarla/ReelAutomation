@@ -1,0 +1,8 @@
+# Ignore all .env files
+.env
+.env.*
+
+# Ignore any environment configuration files in subdirectories
+**/.env
+**/.env.*
+
